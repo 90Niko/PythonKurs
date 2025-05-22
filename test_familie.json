@@ -1,0 +1,20 @@
+{
+    "vater": {
+        "name": "Peter",
+        "alter": 35
+    },
+    "mutter": {
+        "name": "Maria",
+        "alter": 33
+    },
+    "kinder": [
+        {
+            "name": "Anna",
+            "alter": 5
+        },
+        {
+            "name": "Paul",
+            "alter": 3
+        }
+    ]
+}
